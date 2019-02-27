@@ -1,4 +1,4 @@
-# telegram-To-CSV
+# telegram to CSV
 convert telegram's exported .HTML to a single .csv
 
 # Usage
