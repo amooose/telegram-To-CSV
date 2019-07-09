@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
