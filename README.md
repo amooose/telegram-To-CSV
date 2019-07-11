@@ -1,5 +1,5 @@
 # telegram to CSV
-convert telegram's exported .HTML to a single .csv
+convert telegram's exported .HTML's to a single .csv
 
 # Usage
 1. Export all desired messages with nothing selected under Chat Export Settings (So only text will be exported)
